@@ -18,3 +18,18 @@ from sklearn.metrics import r2_score
 
 %matplotlib inline
 
+Project: This project is Seattle ABNB Data from 2016.  Analyzing the 2016 market data to make a decision in investing in Seattle.
+
+The Dataset can be found https://www.kaggle.com/airbnb/seattle/data
+Dataset consists of 3 Files:
+Calendar - Listings of all available and not available properties in 2016
+Listing - 3818 records of listings
+Review - With details review comments 
+
+Summary:
+This project helps answer 3 questions about Seattle market based on 2016 ABNB Data.  
+1)What is the most popular price and which neighbourhood had the highest price. $150 was the most popular price and Rosevelt neighbourhood had the highest price.
+2)What time of the year is the ABNB most profitable? Seems like the 1st half of the year is better specifically Mid January to March and May, June and July.
+3)What property type generates the highest revenue?  House and Apartment property types generate the most revenue.
+
+
